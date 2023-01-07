@@ -21,4 +21,6 @@ public class UserController {
         return new ResponseEntity<>(createUserDto, HttpStatus.CREATED);
     }
 
+    //tested
+
 }
